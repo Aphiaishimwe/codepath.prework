@@ -8,8 +8,7 @@ codepath assignment
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 
-file:///Users/aphiaishimwe/Downloads/prework.gif
-
+https://i.imgur.com/58EUPBr.gif
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
